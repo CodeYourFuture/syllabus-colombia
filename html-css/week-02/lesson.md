@@ -1,5 +1,3 @@
-![Lesson Ready](https://img.shields.io/badge/status-ready-green.svg)
-
 # HTML/CSS 2
 
 **What will we learn today?**
