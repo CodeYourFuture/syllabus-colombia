@@ -1,5 +1,3 @@
-![Lesson Ready](https://img.shields.io/badge/status-ready-green.svg)
-
 # JavaScript Core I - 1
 
 [Mentor Notes](./mentors.md)
