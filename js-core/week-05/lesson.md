@@ -1,5 +1,3 @@
-![Lesson in review](https://img.shields.io/badge/status-review-orange.svg)
-
 # JavaScript Core I - 2
 
 **What we will learn today?**
