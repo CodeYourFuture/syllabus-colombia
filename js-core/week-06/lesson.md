@@ -1,5 +1,3 @@
-![Draft lesson](https://img.shields.io/badge/status-draft-darkred.svg)
-
 # JavaScript Core I - 3
 
 **What we will learn today?**
