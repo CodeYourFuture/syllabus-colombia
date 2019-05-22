@@ -2,7 +2,7 @@
 
 ### Course
 
-* Before you start
+* Antes de empezar
   * [Week 0 - Introduction and basic setup](/others/lesson0.md)
   * [House Rules](house-rules.md)
 * [HTML/CSS](/html-css/index.md)
