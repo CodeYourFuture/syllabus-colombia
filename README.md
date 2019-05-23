@@ -1,11 +1,11 @@
 # [CYF Syllabus](https://codeyourfuture.github.io/syllabus-master/) [![Build Status](https://travis-ci.org/CodeYourFuture/syllabus.svg?branch=master)](https://travis-ci.org/CodeYourFuture/syllabus) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/CodeYourFuture/syllabus/blob/master/CONTRIBUTING.md)
 
 Este es el plan de trabajo y el material del curso de
-[Code Your Future](http://codeyourfuture.co/), una fundación sin animo de lucro y
+[Code Your Future](http://codeyourfuture.co/), una fundación sin ánimo de lucro y
 escuela de programación para refugiados y personas en busca de asilo.
 
 Durante el curso, aprenderás un grupo de tecnologías que te ayudarán a construir
-cualquier cosa desde una simple pagina hasta una poderosa aplicación web integrada con una base de datos ¡o incluso una aplicación móvil! :muscle
+cualquier cosa desde una simple pagina hasta una poderosa aplicación web integrada con una base de datos ¡o incluso una aplicación móvil! :muscle:
 
 El curso de seis mese contiene:
 
@@ -30,7 +30,7 @@ Puedes encontrar el código de conducta completo [aquí](conduct.md).
 
 ## Contribuyendo
 
-El actual plan de trabajo es gracias al duro trabajo de hecho por nuestros asombrosos :sparkles
+El actual plan de trabajo es gracias al duro trabajo de hecho por nuestros asombrosos :sparkles:
 mentores que han dedicado muchas horas a discutir y contribuir con contenido y enseñandolo.
 
 Por favor lea nuestra guía, sobre como empezar a [contribuir](CONTRIBUTING.md) al syllabus de CYFC, o los proyectos que tenemos para nuestros estudiantes.
