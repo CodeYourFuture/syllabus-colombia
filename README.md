@@ -1,52 +1,47 @@
 # [CYF Syllabus](https://codeyourfuture.github.io/syllabus-master/) [![Build Status](https://travis-ci.org/CodeYourFuture/syllabus.svg?branch=master)](https://travis-ci.org/CodeYourFuture/syllabus) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/CodeYourFuture/syllabus/blob/master/CONTRIBUTING.md)
 
-This is the syllabus and course material for
-[Code Your Future](http://codeyourfuture.co/), a not-for-profit volunteer-run
-coding school for refugees and asylum seekers.
+Este es el syllabus y el material del curso de
+[Code Your Future](http://codeyourfuture.co/), una fundación sin animo de lucro y
+escuela de programación para refugiados y personas en busca de asilo.
 
-During the course you will learn a technology stack that helps you build
-anything from a simple website to a powerful database-driven web application or
-even a mobile app!
+Durante el curso, aprenderás un grupo de tecnologías que te ayudarán a construir
+cualquier cosa desde una simple pagina hasta una poderosa aplicación web integrada con una base de datos ¡o incluso una aplicación móvil! :muscle
 
-The six-months course contains:
+El curso de seis mese contiene:
 
 * HTML/CSS
-* Core JavaScript
-* Backend development using [NodeJS](https://nodejs.org)
-* Modern front-end development with [React](https://facebook.github.io/react/)
+* Fundamentos de JavaScript
+* Desarrollo del backend usando [NodeJS](https://nodejs.org)
+* Desarrollo moderno front-end con [React](https://facebook.github.io/react/)
 
-We’ll complement the training with workshops on modern software methodologies
-and job interview practices, etc.
+Complementaremos el entrenamiento con talleres con metodologías de software moderno y prácticas de entrevistas de trabajo, etc.
 
-## Students
-* If you're interested in joining the program, please
-[refer to the main code your future website](https://codeyourfuture.io/students).
-* If you're looking for the active course,
-[you can find it here](https://codeyourfuture.github.io/syllabus-master/),
-or click on the 'CYF Syllabus' link at the very top of
-this readme.
-* If you're looking for the summary file, [it's here](/SUMMARY.md).
 
-## Code Of Conduct
-You can find our full code of conduct [here](conduct.md).
+## Estudiantes
+* Si estás interesado en unirte al programa, por favor
+[dirijase al sitio web principal de code your future](https://codeyourfuture.io/students).
+* Si estás buscando el curso activo,
+[lo puedes encontrar aquí](https://codeyourfuture.github.io/syllabus-master/),
+o clic en enlace al principio de este archivo 'syllabus-colombia'.
+* Si estas buscando por el contenido del curso, [esta aquí](/SUMMARY.md).
 
-## Contributing
+## Código de conducta
+Puedes encontrar el código de conducta completo [aquí](conduct.md).
 
-The current syllabus is thanks to the hard work by our amazing
-mentors who have dedicated many hours to discussing and contributing content
-and teaching.
+## Contribuyendo
 
-Please read our [Contributing](CONTRIBUTING.md) guide to get started with how
-you can contribute to the CYF syllabus, or the projects we have for our
-students.
+El actual syllabus es gracias al duro trabajo de hecho por nuestros asombrosos :sparkles
+mentores que han dedicado muchas horas a discutir y contribuir con contenido y enseñandolo.
 
-## Getting involved
+Por favor lea nuestra guía, sobre como empezar a [contribuir](CONTRIBUTING.md) al syllabus de CYFC, o los proyectos que tenemos para nuestros estudiantes.
 
-Do you want to get involved? we are looking for:
+## Has parte de nosotros
 
-* Lead Mentors (in London, Glasgow and Manchester)
-* Fun projects and workshops for learning Javascript
-* PR Reviewers for student homeworks
-* Other volunteers
+¿Quieres pertenecer a este proyecto? estamos buscando:
 
-Please [contact us](https://codeyourfuture.io/apply/mentor) to get involved!
+* Mentores lideres (En Colombia, Londres, Glasgow y Manchester)
+* Proyectos divertidos y talleres para enseñar Javascript
+* PR Revisión de tareas de estudiantes
+* Otros voluntarios
+
+Por favor [contáctanos](https://codeyourfuture.io/apply/mentor) ¡para hacer parte de nostros!
