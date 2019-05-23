@@ -35,7 +35,7 @@ mentores que han dedicado muchas horas a discutir y contribuir con contenido y e
 
 Por favor lea nuestra guía, sobre como empezar a [contribuir](CONTRIBUTING.md) al syllabus de CYFC, o los proyectos que tenemos para nuestros estudiantes.
 
-## Has parte de nosotros
+## Haz parte de nosotros
 
 ¿Quieres pertenecer a este proyecto? estamos buscando:
 
