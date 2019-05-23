@@ -43,8 +43,8 @@
 * [CORS](/others/cors.md)
 * [Herramientas útiles](/others/useful-tools.md)
 
-### Workshops and other resources
-* [Coding 101](/others/coding-101.md)
+### Talleres y otros recursos
+* [Codificando 101](/others/coding-101.md)
 * Instrucciones: [Compilando SCSS](/html-css/compile-scss-instructions.md)
 * [Taller de Express](/node-db/week-13/workshop.md)
 * [Taller aplicación de hotel](/node-db/week-15/workshop.md)
